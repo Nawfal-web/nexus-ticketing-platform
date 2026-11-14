@@ -79,12 +79,12 @@ npm run dev
 Open the local URL displayed in your terminal.
 
  Screenshots
+ 
  login page:
 <img width="899" height="589" alt="image" src="https://github.com/user-attachments/assets/e9067633-8484-41f3-bf6b-9ba3e0916953" />
 
 event detail page:
-<img width="899" height="436" alt="image" src="https://github.com/user-attachments/assets/cab80ea3-
-0cb4-41af-b6b0-7cf2bffbd1b0" />
+<img width="2185" height="1174" alt="image" src="https://github.com/user-attachments/assets/be74ac9a-7a6b-4fce-b06b-327fe11168e5" />
 
 Checkout page:
 <img width="899" height="431" alt="image" src="https://github.com/user-attachments/assets/ea9fd765-e69b-44ca-a1c7-aa2c3fe7bb63" />
