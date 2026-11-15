@@ -30,13 +30,11 @@ nexus-tickets/
 ├── constants.ts
 ├── index.html
 ├── index.tsx
-├── metadata.json
 ├── package.json
 ├── package-lock.json
 ├── tsconfig.json
 ├── types.ts
 ├── vite.config.ts
-├── .env.example
 ├── .gitignore
 └── README.md
 
@@ -51,7 +49,7 @@ Getting Started
  1. Clone the repository
 
 
-git clone https://github.com/YOUR_USERNAME/nexus-tickets.git
+git clone https://github.com/Nawfal-web/nexus-tickets.git
 
 
  2. Enter the project directory
